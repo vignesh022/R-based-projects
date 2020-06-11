@@ -1,4 +1,4 @@
-usedcars = read.csv("GM_UsedCars.csv")
+usedcars = read.csv("UsedCars.csv")
 ##pairs(usedcars)
 
 ##Linear Regression is used to regress 'Price' on the predictors
